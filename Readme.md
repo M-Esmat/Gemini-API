@@ -62,14 +62,14 @@ This project is built using Python (3.9), Streamlit for the user interface, and 
 Get a glimpse of the Gemini AI multi-tool interface in action:
 
 <p float="left">
-  <img src="images/interface1.jpg" alt="Chatbot Interface" width="300" />
-  <img src="images/interface2.jpg" alt="Image Captioning" width="300" />
-  <img src="images/interface3.jpg" alt="Embedding Tool" width="300" />
+  <img src="screenshots/interface1.jpg" alt="Chatbot Interface" width="300" />
+  <img src="screenshots/interface2.jpg" alt="Image Captioning" width="300" />
+  <img src="screenshots/interface3.jpg" alt="Embedding Tool" width="300" />
 </p>
 
 <p float="left">
-  <img src="images/interface4.jpg" alt="Q&A Panel" width="300" />
-  <img src="images/interface5.jpg" alt="Translator in Action" width="300" />
+  <img src="screenshots/interface4.jpg" alt="Q&A Panel" width="300" />
+  <img src="screenshots/interface5.jpg" alt="Translator in Action" width="300" />
 </p>
 
   
