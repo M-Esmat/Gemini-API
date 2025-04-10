@@ -61,19 +61,13 @@ This project is built using Python (3.9), Streamlit for the user interface, and 
 
 Get a glimpse of the Gemini AI multi-tool interface in action:
 
-<p float="left">
-  <img src="screenshots/interface1.jpg" alt="Chatbot Interface" width="300" />
-  <img src="screenshots/interface2.jpg" alt="Image Captioning" width="300" />
-  <img src="screenshots/interface3.jpg" alt="Embedding Tool" width="300" />
-</p>
+| Chatbot | Image Captioning | Embedding Tool |
+|--------|------------------|----------------|
+| ![](screenshots/interface1.jpg) | ![](screenshots/interface2.jpg) | ![](screenshots/interface3.jpg) |
 
-<p float="left">
-  <img src="screenshots/interface4.jpg" alt="Q&A Panel" width="300" />
-  <img src="screenshots/interface5.jpg" alt="Translator in Action" width="300" />
-</p>
+| Q&A Panel | Translator |
+|-----------|------------|
+| ![](screenshots/interface4.jpg) | ![](screenshots/interface5.jpg) |
 
-  
-- **Security & Best Practices:**  
-  - The code includes appropriate error handling (e.g., language detection failure, input validation).
-  - A FutureWarning regarding `torch.load` is addressed in comments and by ensuring trusted checkpoint files are loaded.
+
 
